@@ -1,6 +1,6 @@
 # ml-dl_projects
 
-Wine quality data set from UCI machine learning repository 
+Wine quality dataset from UCI machine learning repository, 1 dataset for red wine and 1 for white wine.
 
 12 features, quality feature included.
 
